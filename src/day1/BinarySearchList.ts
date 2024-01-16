@@ -1,3 +1,6 @@
+/**
+ * Time complexity: O(log(n))
+ */
 // My solution
 export default function bs_list(haystack: number[], needle: number): boolean {
   // base case 1, needle not found
